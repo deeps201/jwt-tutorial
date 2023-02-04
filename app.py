@@ -3,7 +3,6 @@ import jwt
 from datetime import datetime, timedelta
 from functools import wraps
 
-
 app = Flask(__name__)
 
 
